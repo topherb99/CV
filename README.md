@@ -30,7 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | Postgresql | Ruby on Rails | JavaScript |
 | Active Record | | Bootstrap |
 
-#### [RPI-security-sensor](https://github.com/SUBV92/RPI-security-sensor)
+#### [RPI-security-sensor](https://github.com/SHUBV92/RPI-security-sensor)
 ##### Tech Stack:
 
 | Database | Backend | Frontend |
