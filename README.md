@@ -54,12 +54,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | JavaScript | Sinatra | Capybara |
 | Python | React | Jasmine |
 | SQL | JQuery | Jest |
-| | Flask | Cypress |
+| HTML/CSS | Flask | Cypress |
 | | Postgresql | Unittest |
 | | Active Record | Pytest|
 | | SQAlchemy | |
 
 ## Experience
+
+
+##### Offshore Lighting Limited – Southampton, UK
+##### Assistant
+Executed daily operations of preventive maintenance on electrical panels, motor controls, and switch gears. Performed installation and maintenance operation of CCTV cameras. Used Bosch configuration manager for programming cameras in their respective positions. Maintained equipment logs that recorded performance problems, repairs, calibrations, and tests.
+##### A & J Masonry – Bath, Location
+##### Job Title, 2017 to 2018
+Performed maintenance and construction work, including operation of construction equipment, and painting. Followed construction plans and instructions from senior management.
 
 
 
