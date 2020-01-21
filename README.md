@@ -1,5 +1,6 @@
 ## Christopher Barnett
 
+A motivated and driven individual with a keen eye for detail. With a commendable sporting background I am able to work well within a team but also lead if needs be. Having been in these high pressure environments I am able to adapt fast to be able to make a quick but calculated decision. I pride myself on being a people person, I thrive off communication with others and when relations aren't going well it's important to me to fix that, especially in the workplace.
 
 <!-- ## Skills - TBC from Github as you go along
 
@@ -27,7 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 | Database | Backend | Frontend |
 | -------- | :-------: | --------: |
-| Postgresql | Ruby on Rails | JavaScript |
+| Postgresql | Ruby on Rails | JavaScript/React |
 | Active Record | | Bootstrap |
 
 #### [RPI-security-sensor](https://github.com/SHUBV92/RPI-security-sensor)
