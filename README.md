@@ -2,15 +2,21 @@
 
 A motivated and driven individual with a keen eye for detail. With a commendable sporting background I am able to work well within a team but also lead if needs be. Having been in these high pressure environments I am able to adapt fast to be able to make a quick but calculated decision. I pride myself on being a people person, I thrive off communication with others and when relations aren't going well it's important to me to fix that, especially in the workplace.
 
-<!-- ## Skills - TBC from Github as you go along
+## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+- Problem solving: Experienced at short and long-term troubleshooting for potential developing issues, possess strong leadership, communication, interpersonal and problem-solving abilities.
 
-#### This Skill
+- Possess great ability to lead customer service teams, focused on creating efficient methods to monitor processes for development
 
-- Experience
-- Achievements
-- Evidence
+- Focused on processes; leverage understanding of organisational dynamics and ‎competitive landscape to identify opportunities for improvement, recommend solutions, and ‎implement changes across the organisation. Excellent in prioritising work and optimising ‎resources. Persuasive communicator; deliver clear, concise, and audience-appropriate reporting.‎
+
+#### Problem solving
+
+- Throughout my time at Makers I have been problem solving, always striving to find the most efficient way to get through a problem. In order to do this I would have to be scrum master for a day, agreed by the rest of the team, so that there was no confusion with what we were doing
+
+- Making the switch from twitter to using rails in our RPI-security-sensor project proved difficult, but I came up with the idea of using base64 so that we were able to store the images within a database (Postgresql), and then have an html page render the string.
+
+- See the [RPI-security-sensor](https://github.com/SHUBV92/RPI-security-sensor) project
 
 #### Another Skill
 
@@ -19,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
+- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Projects
 
@@ -61,7 +67,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Swansea University - Mechanical Engineering (October 2016 to February 2019)
 
 ## Experience
-
 
 ##### Offshore Lighting Limited – Southampton, UK
 ##### Assistant
